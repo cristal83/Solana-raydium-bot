@@ -55,9 +55,6 @@ Activate the raydium volume bot to carry out desired transaction volumes. Implem
 
 Retrieve remaining funds from the keypairs, consolidating WSOL and SOL back to the configured wallet.
 
-## Additional Support
-
-For comprehensive guidance and updates, directly contact @james980114 on X. Extended documentation and support are available to assist with any queries.
 
 ### Conclusion
 
